@@ -29,4 +29,4 @@ Adjust the parameters in the script (`stepper_diff_drive_odometry.py`) according
 
 Contributions are welcome! If you encounter issues, have suggestions, or want to contribute new features, feel free to open GitHub issues or submit pull requests. Your feedback and contributions help improve this project for the community.
 
-Let's work together to make this project even better!
+Let's work together to make this project even better.!
